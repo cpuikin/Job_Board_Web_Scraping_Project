@@ -1,5 +1,7 @@
 # Web_Scraping_Project
 
+Job Analysis in LOCAL JOBS ANALYSIS.pptx
+
  This project is to help us understand what the job market is like. To determine the key skills necessary to get hired as a data analyst/data scientist these days. Understand what industry is currently hiring people with our skillset. Explore the different locations that we will most likely end up working in and finally I will share some fun facts.
  
  Data Collection: 
